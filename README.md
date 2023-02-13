@@ -1,8 +1,5 @@
 # GitLearn
 
-同阕测试！！！
+Git使用初窥门径
 
-chsacaja main
-好好 好
-
-efsf
+今晚可以睡觉
